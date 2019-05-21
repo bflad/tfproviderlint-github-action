@@ -1,0 +1,1 @@
+# tfproviderlint-github-action
