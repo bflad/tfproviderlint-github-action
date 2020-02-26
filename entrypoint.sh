@@ -1,3 +1,3 @@
 #!/bin/sh
 
-sh -c "/app/tfproviderlint $*"
+sh -c "/usr/bin/tfproviderlint $*"
